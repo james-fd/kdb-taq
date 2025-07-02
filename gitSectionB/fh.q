@@ -1,3 +1,4 @@
+
 \l conn.q
 .conn.open `localhost:5000; /connect to tickerplant 
 syms:`MSFT.O`IBM.N`GS.N`BA.N`VOD.L; /stocks
