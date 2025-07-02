@@ -1,3 +1,5 @@
+//NEW
+//COMMENTS
 //////////////////////////////////////////////////////
 //                                                  //
 //         Overwrite of Logging Library             //
